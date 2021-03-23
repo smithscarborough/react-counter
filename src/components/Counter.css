@@ -1,0 +1,19 @@
+.Counter {
+  font-size: 2em;
+  background: cadetblue;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px auto;
+  box-shadow: 0 5px 5px rgba(0 0 0 / 30%);
+  display: flex;
+  max-width: 300px;
+  justify-content: space-between;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: lime;
+}
