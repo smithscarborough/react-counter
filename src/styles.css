@@ -5,5 +5,8 @@
 
 body {
   margin: 0;
-  background-color: salmon;
+  background-image: url(./img/American_Flag_Image.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: salmon; */
 }
